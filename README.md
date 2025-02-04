@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Abdurazaq Al-hmri
 
 ## 🚀 About Me  
 I'm a **Software Developer** specializing in **Laravel, Vue.js, and SaaS development**. With over **3 years of experience**, I build scalable web applications, optimize system performance, and create seamless front-end experiences. Passionate about clean code, modern architectures, and continuous learning.
